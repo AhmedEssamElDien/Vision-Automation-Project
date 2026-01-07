@@ -1,0 +1,19 @@
+[project]
+name = "vision-automation"
+version = "1.0.0"
+description = "Vision automation bot for desktop automation"
+requires-python = ">=3.8"
+dependencies = [
+    "pyautogui>=0.9.54",
+    "opencv-python>=4.8.0",
+    "numpy>=1.24.0",
+    "requests>=2.31.0",
+    "Pillow>=10.0.0",
+    "pygetwindow>=0.0.9",
+    "pyperclip>=1.8.2",
+    "easyocr>=1.7.0",
+]
+
+[build-system]
+requires = ["hatchling"]
+build-backend = "hatchling.build"
