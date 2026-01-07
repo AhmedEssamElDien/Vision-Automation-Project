@@ -1,3 +1,0 @@
-Title: Placeholder for post 1
-
-This is a placeholder for post 1 because API call failed
